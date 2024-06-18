@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm [Connor] 👋
 
-<!--
-**connormaccallum/connormaccallum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate [former Electrician, current Computer Science student,] with experience in [Python/C]. I love to meet new people, learn new things, and explore the growing industry of technology.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [graduating university]
+- 🌱 I’m currently learning [introductory Networking]
+- 🤔 I’m looking for help with [mastering GitHub]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=connormaccallum&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connormaccallum&layout=compact&theme=radical)
+
+## Connect with Me
+- [LinkedIn](https://linkedin.com/in/connormaccallum)
+
+Thank you for visiting my profile!

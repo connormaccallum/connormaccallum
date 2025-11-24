@@ -1,7 +1,8 @@
 # Hello, I'm **Connor** 👋
 
 ## About Me
-I'm a former electrician and a current Computer Science student with experience in Python, C, C#, and Kotlin. I love to meet new people, learn new things, and explore the growing technology industry.
+I'm a Red Seal Journeyperson electrician and a current Computer Science student.
+I love to meet new people, learn new things, and explore the growing technology industry.
 
 - 🔭 I'm currently working on obtaining my degree at MacEwan University!
 - 🌱 I'm currently learning operating systems, scripting, and security, utilizing C and Python.

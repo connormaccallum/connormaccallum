@@ -5,7 +5,7 @@
 I am a Red Seal Journeyperson Electrician, continuing my education with Computer Science!
 
 🔭 Pursuing a Computer Science degree at MacEwan University  
-🌱 This semester: Studying web development, data visualization, and database management with Java, HTML, and SQL 
+🌱 This semester: studying web development, data visualization, and database management using Java, HTML, and SQL 
 🤔 Actively improving my Git, GitHub, and collaboration workflows
 
 ## GitHub Stats

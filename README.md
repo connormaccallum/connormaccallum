@@ -1,12 +1,12 @@
 # Hello, I'm **Connor** 👋
 
 ## About Me
-I'm a Red Seal Journeyperson electrician and a current Computer Science student.
-I love to meet new people, learn new things, and explore the growing technology industry.
 
-- 🔭 I'm currently working on obtaining my degree at MacEwan University!
-- 🌱 I'm currently learning operating systems, scripting, and security, utilizing C and Python.
-- 🤔 I'm looking for help with mastering GitHub.
+I am a Red Seal Journeyperson Electrician, continuing my education with Computer Science!
+
+🔭 Pursuing a Computer Science degree at MacEwan University  
+🌱 This semester: Studying web development, data visualization, and database management with Java, HTML, and SQL 
+🤔 Actively improving my Git, GitHub, and collaboration workflows
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=connormaccallum&show_icons=true&theme=radical)
